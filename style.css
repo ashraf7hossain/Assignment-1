@@ -6,6 +6,7 @@
 .header{
 	background: #0E1525;
 	text-align: center;
+        z-index: 1000000;
 }
 
 .header ul li{
